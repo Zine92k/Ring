@@ -1,0 +1,5 @@
+Ring-sauvegarde*.json
+Ring.bat.old
+Ring.bat.new
+backup/
+*.zip

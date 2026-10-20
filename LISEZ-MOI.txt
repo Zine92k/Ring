@@ -1,0 +1,31 @@
+RING - le site de duels de films et de musique
+===============================================
+
+1. Clique droit sur le zip > "Extraire tout", puis ouvre le dossier.
+2. Double-clique sur Ring.bat.
+   Si Windows affiche "Windows a protege votre ordinateur" :
+   clique sur "Informations complementaires" puis "Executer quand meme".
+3. Le site s'ouvre dans ton navigateur. Une petite fenetre noire se reduit
+   dans la barre des taches : laisse-la ouverte pendant que tu joues
+   (ferme-la pour arreter Ring).
+
+MISES A JOUR AUTOMATIQUES
+Ring se met a jour tout seul : a chaque lancement, il verifie s'il existe
+une nouvelle version et l'installe. Tu n'as plus besoin de retelecharger
+le fichier. (Si Ring est deja ouvert, ferme la fenetre noire et relance-le.)
+
+Tu trouveras deja les films et la playlist de Zo.
+- Pour classer TES films ou TA playlist : bouton "+" en haut a droite
+  et suis les etapes (bouton Ring Sync a glisser dans tes favoris).
+
+JOUER ENSEMBLE EN LIGNE (1 seconde, blind test, affiche zoomee, casting...)
+- Onglet Jeux > bouton "Multijoueur en ligne".
+- L'un de vous clique sur "Creer une partie", choisit le jeu,
+  et donne le code aux autres.
+- Les autres tapent leur prenom + le code, puis "Rejoindre".
+- Le premier qui trouve le film (ou le son) gagne le plus de points,
+  classement a la fin. Il faut internet et Ring ouvert chez chacun.
+
+Ta progression est enregistree automatiquement dans Ring-sauvegarde.json,
+a cote de Ring.bat. Garde les deux fichiers dans le meme dossier.
+Une copie de secours (Ring-sauvegarde-secours.json) est faite automatiquement.
